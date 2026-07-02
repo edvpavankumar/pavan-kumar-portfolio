@@ -1,1 +1,9 @@
-export { default, alt, size, contentType, runtime } from "./opengraph-image";
+import OpengraphImage, {
+  alt,
+  size,
+  contentType,
+} from "./opengraph-image";
+
+export { alt, size, contentType };
+
+export default OpengraphImage;
