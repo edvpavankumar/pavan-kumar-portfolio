@@ -29,7 +29,7 @@ export const personal = {
     "https://www.linkedin.com/in/dinesh-venkata-pavan-kumar-ede-3729322a5/",
   leetcode: "https://leetcode.com/u/pavanede/",
   hackerrank: "https://www.hackerrank.com/profile/edvpavankumar",
-  resumeFile: "/EDE-Dinesh-Venkata-Pavan-Kumar-Resume.pdf",
+  resumeFile: "/Pavan_Resume.pdf",
   summary:
     "Motivated B.Tech Information Technology student with strong foundations in Java, Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, and Operating Systems. Passionate about software development and problem-solving, with hands-on experience building real-world applications and working in professional environments.",
 };
